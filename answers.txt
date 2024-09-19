@@ -10,3 +10,6 @@ Answer: Data science can be used in multiple fields such as finance and healthca
 Q3: What is the difference between merging and rebasing?
 Answer: Merging will create a new commit that will combine the two branches and preserve same structure, whereas rebasing will commit to a new base.
 
+Q4: What skills do you hope to improve during this course?
+Answer: Learn the essentials of data science and get better at using pandas and other libraries.
+
