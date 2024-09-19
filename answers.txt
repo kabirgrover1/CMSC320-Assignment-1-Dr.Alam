@@ -7,3 +7,6 @@ Answer: Collaboration and back of code
 Q2: What field could data science be applied to? Give an example and how it might help
 Answer: Data science can be used in multiple fields such as finance and healthcare. Lets take an example in healthcare: could be ued in early detection of certain symptoms or in drug discovery.
 
+Q3: What is the difference between merging and rebasing?
+Answer: Merging will create a new commit that will combine the two branches and preserve same structure, whereas rebasing will commit to a new base.
+
